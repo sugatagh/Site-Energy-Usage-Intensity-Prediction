@@ -1,5 +1,11 @@
 # Site Energy Usage Intensity Prediction
 
+## Project Report
+
+**https://sugatagh.github.io/dsml/projects/site-energy-usage-intensity-prediction/**
+
+## Overview
+
 - [**Energy usage intensity**](https://en.wikipedia.org/wiki/Efficient_energy_use#Building_design) (EUI) refers to the amount of energy used per square foot annually. It is calculated by dividing the total energy consumed by the building in a year by the total gross floor area. Like miles per gallon for cars, EUI is the prime indicator of the energy performance of a building.
 
 - The EUI of a site or a building may depend on
